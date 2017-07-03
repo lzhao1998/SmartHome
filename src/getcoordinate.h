@@ -1,0 +1,5 @@
+#ifndef _GETCOORDINATE_H
+#define _GETCOORDINATE_H
+
+
+#endif // _GETCOORDINATE_H
